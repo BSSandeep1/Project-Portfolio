@@ -1,0 +1,51 @@
+Date,Process,Tasks_Completed,Time_Taken,Employee,Department
+2025-01-05,Order Processing,50,5,E01,Sales Ops
+2025-01-12,Inventory Update,40,6,E02,Warehouse
+2025-01-20,Delivery,60,7,E03,Logistics
+2025-02-02,Order Processing,55,5,E01,Sales Ops
+2025-02-10,Inventory Update,42,6,E02,Warehouse
+2025-02-18,Delivery,65,8,E03,Logistics
+2025-03-01,Order Processing,58,5,E01,Sales Ops
+2025-03-08,Inventory Update,45,6,E02,Warehouse
+2025-03-16,Delivery,68,7,E03,Logistics
+2025-03-25,Order Processing,60,5,E01,Sales Ops
+2025-04-03,Inventory Update,47,6,E02,Warehouse
+2025-04-11,Delivery,70,8,E03,Logistics
+2025-04-20,Order Processing,62,5,E01,Sales Ops
+2025-04-28,Inventory Update,50,6,E02,Warehouse
+2025-05-05,Delivery,72,7,E03,Logistics
+2025-05-14,Order Processing,65,5,E01,Sales Ops
+2025-05-22,Inventory Update,52,6,E02,Warehouse
+2025-06-01,Delivery,75,8,E03,Logistics
+2025-06-10,Order Processing,68,5,E01,Sales Ops
+2025-06-18,Inventory Update,55,6,E02,Warehouse
+2025-06-26,Delivery,78,7,E03,Logistics
+2025-07-05,Order Processing,70,5,E01,Sales Ops
+2025-07-12,Inventory Update,58,6,E02,Warehouse
+2025-07-20,Delivery,80,8,E03,Logistics
+2025-07-28,Order Processing,72,5,E01,Sales Ops
+2025-08-05,Inventory Update,60,6,E02,Warehouse
+2025-08-13,Delivery,82,7,E03,Logistics
+2025-08-21,Order Processing,75,5,E01,Sales Ops
+2025-08-29,Inventory Update,62,6,E02,Warehouse
+2025-09-06,Delivery,85,8,E03,Logistics
+2025-09-14,Order Processing,78,5,E01,Sales Ops
+2025-09-22,Inventory Update,65,6,E02,Warehouse
+2025-09-30,Delivery,88,7,E03,Logistics
+2025-10-08,Order Processing,80,5,E01,Sales Ops
+2025-10-16,Inventory Update,68,6,E02,Warehouse
+2025-10-24,Delivery,90,8,E03,Logistics
+2025-11-02,Order Processing,82,5,E01,Sales Ops
+2025-11-10,Inventory Update,70,6,E02,Warehouse
+2025-11-18,Delivery,92,7,E03,Logistics
+2025-11-26,Order Processing,85,5,E01,Sales Ops
+2025-12-04,Inventory Update,72,6,E02,Warehouse
+2025-12-12,Delivery,95,8,E03,Logistics
+2025-12-20,Order Processing,88,5,E01,Sales Ops
+2025-12-28,Inventory Update,75,6,E02,Warehouse
+2026-01-05,Delivery,98,7,E03,Logistics
+2026-01-13,Order Processing,90,5,E01,Sales Ops
+2026-01-21,Inventory Update,78,6,E02,Warehouse
+2026-01-29,Delivery,100,8,E03,Logistics
+2026-02-07,Order Processing,92,5,E01,Sales Ops
+2026-02-15,Inventory Update,80,6,E02,Warehouse
