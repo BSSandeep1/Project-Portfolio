@@ -17,8 +17,8 @@ This project simulates various sales strategies and models business outcomes to 
 Refer to the Data for KPI Strategy.csv
 
 ## Dashboard
-Refer to the Dashboard for KPI Strategy.pdf
-Refer to the KPI Strategy Charts 1 & Charts 2 
+Refer to the Dashboard for KPI Strategy.pdf,
+Refer to the KPI Strategy Charts 1 & Charts 2, 
 Refer to the KPI Strategy.pbix
 
 
