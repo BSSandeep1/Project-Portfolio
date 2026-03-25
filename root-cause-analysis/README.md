@@ -14,7 +14,7 @@ This project analyzes key performance indicators (KPIs) in a healthcare environm
 - **Excel / CSV** – Sample datasets for analysis.  
 
 ## Dataset
-Access the dataset used for analysis in the data folder
+Access the dataset using Data for Root Cause Analysis.csv
 
 ## Dashboard
-Interactive dashboards with insights and visualizations in the dashbaords folder
+Interactive dashboards with insights and visualization
