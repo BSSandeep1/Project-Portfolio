@@ -1,31 +1,20 @@
-**Project Overview**
-This project analyzes key performance indicators (KPIs) to identify the underlying causes of performance variations in a healthcare environment. Using data-driven insights, it helps highlight patterns, anomalies, and critical factors impacting overall performance.
+# Root Cause Analysis
 
-Objectives
-Identify root causes of performance issues.
-Visualize KPI trends and variations.
-Provide actionable insights for operational improvements.
-Tools & Technologies
-SQL – Extracting, transforming, and aggregating data.
-Power BI – Creating interactive dashboards and visualizations.
-Excel / CSV – Sample datasets for analysis.
-Project Structure
-root-cause-analysis/
-├── data/          # Sample datasets or SQL scripts
-├── dashboards/    # Power BI dashboards
-├── screenshots/   # Dashboard snapshots
-└── README.md      # Project documentation
-Key Features
-Trend analysis of performance metrics.
-Root cause identification of anomalies and variations.
-Interactive dashboards to explore KPIs.
-Clear visual storytelling of insights.
-Usage
-Open the data/ folder to review datasets or SQL scripts.
-Launch dashboards from the dashboards/ folder for interactive insights.
-Check screenshots/ for a quick overview of visualizations.
-Insights & Learnings
-Identified key factors affecting performance.
-Discovered recurring patterns and anomalies.
-Gained experience integrating SQL data with Power BI dashboards.
-Developed actionable recommendations based on data analysis.
+## Project Overview
+This project analyzes key performance indicators (KPIs) in a healthcare environment to identify the underlying causes of performance variations. By combining SQL data queries with Power BI visualizations, the project highlights trends, patterns, and critical factors affecting patient flow and operational efficiency.
+
+## Objectives
+- Identify root causes of delays and bottlenecks in patient care.  
+- Visualize KPI trends to uncover performance variations.  
+- Provide actionable insights to improve healthcare operations.
+
+## Tools & Technologies
+- **SQL** – Data extraction, transformation, and aggregation.  
+- **Power BI** – Dashboard creation and interactive visualizations.  
+- **Excel / CSV** – Sample datasets for analysis.  
+
+## Dataset
+Access the dataset used for analysis in the data folder
+
+## Dashboard
+Interactive dashboards with insights and visualizations in the dashbaords folder
